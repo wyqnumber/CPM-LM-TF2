@@ -1,9 +1,78 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3">
   <diagram name="第 1 页" id="K9h2MfqYQbRv_jCMhmpx">
-    <mxGraphModel dx="2074" dy="1132" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1185" dy="647" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="AVN3FH4dfqpNPx5bCHww-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AVN3FH4dfqpNPx5bCHww-24" target="AVN3FH4dfqpNPx5bCHww-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AVN3FH4dfqpNPx5bCHww-24" value="问题" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="310" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AVN3FH4dfqpNPx5bCHww-25" value="Transformer模块" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="55" y="240" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AVN3FH4dfqpNPx5bCHww-27" value="向量" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="30" y="190" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="AVN3FH4dfqpNPx5bCHww-28" value="向量" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="55" y="190" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="AVN3FH4dfqpNPx5bCHww-29" value="向量" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="80" y="190" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="AVN3FH4dfqpNPx5bCHww-30" value="向量" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="105" y="190" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="AVN3FH4dfqpNPx5bCHww-31" value="向量" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="130" y="190" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="AVN3FH4dfqpNPx5bCHww-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="AVN3FH4dfqpNPx5bCHww-33" target="AVN3FH4dfqpNPx5bCHww-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AVN3FH4dfqpNPx5bCHww-33" value="池化" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="55" y="140" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="AVN3FH4dfqpNPx5bCHww-35" value="向量" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="80" y="90" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="AVN3FH4dfqpNPx5bCHww-37" value="相似度" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="145" y="20" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="AVN3FH4dfqpNPx5bCHww-72" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AVN3FH4dfqpNPx5bCHww-73" target="AVN3FH4dfqpNPx5bCHww-74">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AVN3FH4dfqpNPx5bCHww-73" value="问题" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="255" y="310" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AVN3FH4dfqpNPx5bCHww-74" value="Transformer模块" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="240" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AVN3FH4dfqpNPx5bCHww-75" value="向量" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="215" y="190" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="AVN3FH4dfqpNPx5bCHww-76" value="向量" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="240" y="190" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="AVN3FH4dfqpNPx5bCHww-77" value="向量" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="265" y="190" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="AVN3FH4dfqpNPx5bCHww-78" value="向量" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="290" y="190" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="AVN3FH4dfqpNPx5bCHww-79" value="向量" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="315" y="190" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="AVN3FH4dfqpNPx5bCHww-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="AVN3FH4dfqpNPx5bCHww-81" target="AVN3FH4dfqpNPx5bCHww-82">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AVN3FH4dfqpNPx5bCHww-81" value="池化" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="140" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="AVN3FH4dfqpNPx5bCHww-82" value="向量" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="265" y="90" width="50" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
